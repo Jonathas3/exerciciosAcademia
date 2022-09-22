@@ -1,0 +1,15 @@
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\obj\Debug\net6.0\AcademiaExercicios1.csproj.AssemblyReference.cache
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\obj\Debug\net6.0\AcademiaExercicios1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\obj\Debug\net6.0\AcademiaExercicios1.AssemblyInfoInputs.cache
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\obj\Debug\net6.0\AcademiaExercicios1.AssemblyInfo.cs
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\obj\Debug\net6.0\AcademiaExercicios1.csproj.CoreCompileInputs.cache
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\bin\Debug\net6.0\AcademiaExercicios1.exe
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\bin\Debug\net6.0\AcademiaExercicios1.deps.json
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\bin\Debug\net6.0\AcademiaExercicios1.runtimeconfig.json
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\bin\Debug\net6.0\AcademiaExercicios1.dll
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\bin\Debug\net6.0\AcademiaExercicios1.pdb
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\obj\Debug\net6.0\AcademiaExercicios1.dll
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\obj\Debug\net6.0\refint\AcademiaExercicios1.dll
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\obj\Debug\net6.0\AcademiaExercicios1.pdb
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\obj\Debug\net6.0\AcademiaExercicios1.genruntimeconfig.cache
+C:\Dev\exerciciosAcademia\AcademiaExercicios1\AcademiaExercicios1\obj\Debug\net6.0\ref\AcademiaExercicios1.dll
