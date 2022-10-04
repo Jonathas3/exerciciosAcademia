@@ -1,0 +1,15 @@
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\bin\Debug\net6.0\AcademiaExerciciosmatriz5.exe
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\bin\Debug\net6.0\AcademiaExerciciosmatriz5.deps.json
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\bin\Debug\net6.0\AcademiaExerciciosmatriz5.runtimeconfig.json
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\bin\Debug\net6.0\AcademiaExerciciosmatriz5.dll
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\bin\Debug\net6.0\AcademiaExerciciosmatriz5.pdb
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\obj\Debug\net6.0\AcademiaExerciciosmatriz5.csproj.AssemblyReference.cache
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\obj\Debug\net6.0\AcademiaExerciciosmatriz5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\obj\Debug\net6.0\AcademiaExerciciosmatriz5.AssemblyInfoInputs.cache
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\obj\Debug\net6.0\AcademiaExerciciosmatriz5.AssemblyInfo.cs
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\obj\Debug\net6.0\AcademiaExerciciosmatriz5.csproj.CoreCompileInputs.cache
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\obj\Debug\net6.0\AcademiaExerciciosmatriz5.dll
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\obj\Debug\net6.0\refint\AcademiaExerciciosmatriz5.dll
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\obj\Debug\net6.0\AcademiaExerciciosmatriz5.pdb
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\obj\Debug\net6.0\AcademiaExerciciosmatriz5.genruntimeconfig.cache
+C:\Dev\exerciciosAcademia\AcademiaExerciciosmatriz5\obj\Debug\net6.0\ref\AcademiaExerciciosmatriz5.dll
