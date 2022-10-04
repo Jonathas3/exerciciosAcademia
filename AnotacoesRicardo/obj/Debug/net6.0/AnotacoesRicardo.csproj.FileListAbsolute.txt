@@ -1,0 +1,15 @@
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\bin\Debug\net6.0\AnotacoesRicardo.exe
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\bin\Debug\net6.0\AnotacoesRicardo.deps.json
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\bin\Debug\net6.0\AnotacoesRicardo.runtimeconfig.json
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\bin\Debug\net6.0\AnotacoesRicardo.dll
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\bin\Debug\net6.0\AnotacoesRicardo.pdb
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\obj\Debug\net6.0\AnotacoesRicardo.csproj.AssemblyReference.cache
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\obj\Debug\net6.0\AnotacoesRicardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\obj\Debug\net6.0\AnotacoesRicardo.AssemblyInfoInputs.cache
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\obj\Debug\net6.0\AnotacoesRicardo.AssemblyInfo.cs
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\obj\Debug\net6.0\AnotacoesRicardo.csproj.CoreCompileInputs.cache
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\obj\Debug\net6.0\AnotacoesRicardo.dll
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\obj\Debug\net6.0\refint\AnotacoesRicardo.dll
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\obj\Debug\net6.0\AnotacoesRicardo.pdb
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\obj\Debug\net6.0\AnotacoesRicardo.genruntimeconfig.cache
+C:\Dev\exerciciosAcademia\AnotacoesRicardo\obj\Debug\net6.0\ref\AnotacoesRicardo.dll
