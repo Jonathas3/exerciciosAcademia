@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/AcademiaExercicios3/AcademiaExercicios3/obj
+/AcademiaExercicios3/AcademiaExercicios3/.vs/AcademiaExercicios3
+/AnotacoesRicardo/obj/Release/net6.0
+/AnotacoesFabricio/obj/Release/net6.0
+/AcademiaExerciciosmatriz5/obj/Release/net6.0
+/AcademiaExercicios4 Vetores/obj/Release/net6.0
+/AcademiaExercicios2/AcademiaExercicios2/obj/Release/net6.0
+/AcademiaExercicios1/AcademiaExercicios1/obj/Release/net6.0
+/.vs
