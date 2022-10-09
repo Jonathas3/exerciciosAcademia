@@ -1,0 +1,15 @@
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\bin\Debug\net6.0\Exercicios introducao orientacao objeto.exe
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\bin\Debug\net6.0\Exercicios introducao orientacao objeto.deps.json
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\bin\Debug\net6.0\Exercicios introducao orientacao objeto.runtimeconfig.json
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\bin\Debug\net6.0\Exercicios introducao orientacao objeto.dll
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\bin\Debug\net6.0\Exercicios introducao orientacao objeto.pdb
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\obj\Debug\net6.0\Exercicios introducao orientacao objeto.csproj.AssemblyReference.cache
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\obj\Debug\net6.0\Exercicios introducao orientacao objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\obj\Debug\net6.0\Exercicios introducao orientacao objeto.AssemblyInfoInputs.cache
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\obj\Debug\net6.0\Exercicios introducao orientacao objeto.AssemblyInfo.cs
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\obj\Debug\net6.0\Exercicios introducao orientacao objeto.csproj.CoreCompileInputs.cache
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\obj\Debug\net6.0\Exercicios introducao orientacao objeto.dll
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\obj\Debug\net6.0\refint\Exercicios introducao orientacao objeto.dll
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\obj\Debug\net6.0\Exercicios introducao orientacao objeto.pdb
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\obj\Debug\net6.0\Exercicios introducao orientacao objeto.genruntimeconfig.cache
+C:\Dev\exerciciosAcademia\Exercicios introducao orientacao objeto\obj\Debug\net6.0\ref\Exercicios introducao orientacao objeto.dll
