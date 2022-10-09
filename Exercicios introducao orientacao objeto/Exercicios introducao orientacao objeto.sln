@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios introducao orientacao objeto", "Exercicios introducao orientacao objeto.csproj", "{DFCF41FA-9FFC-4F58-9649-21A334344E4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios introducao orientacao objeto 07", "Exercicios introducao orientacao objeto 07.csproj", "{DFCF41FA-9FFC-4F58-9649-21A334344E4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
