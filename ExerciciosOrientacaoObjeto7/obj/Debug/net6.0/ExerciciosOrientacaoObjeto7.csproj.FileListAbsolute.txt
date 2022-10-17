@@ -1,0 +1,15 @@
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\bin\Debug\net6.0\ExerciciosOrientacaoObjeto7.exe
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\bin\Debug\net6.0\ExerciciosOrientacaoObjeto7.deps.json
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\bin\Debug\net6.0\ExerciciosOrientacaoObjeto7.runtimeconfig.json
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\bin\Debug\net6.0\ExerciciosOrientacaoObjeto7.dll
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\bin\Debug\net6.0\ExerciciosOrientacaoObjeto7.pdb
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\obj\Debug\net6.0\ExerciciosOrientacaoObjeto7.csproj.AssemblyReference.cache
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\obj\Debug\net6.0\ExerciciosOrientacaoObjeto7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\obj\Debug\net6.0\ExerciciosOrientacaoObjeto7.AssemblyInfoInputs.cache
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\obj\Debug\net6.0\ExerciciosOrientacaoObjeto7.AssemblyInfo.cs
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\obj\Debug\net6.0\ExerciciosOrientacaoObjeto7.csproj.CoreCompileInputs.cache
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\obj\Debug\net6.0\ExerciciosOrientacaoObjeto7.dll
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\obj\Debug\net6.0\refint\ExerciciosOrientacaoObjeto7.dll
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\obj\Debug\net6.0\ExerciciosOrientacaoObjeto7.pdb
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\obj\Debug\net6.0\ExerciciosOrientacaoObjeto7.genruntimeconfig.cache
+C:\Dev\exerciciosAcademia\ExerciciosOrientacaoObjeto7\obj\Debug\net6.0\ref\ExerciciosOrientacaoObjeto7.dll
