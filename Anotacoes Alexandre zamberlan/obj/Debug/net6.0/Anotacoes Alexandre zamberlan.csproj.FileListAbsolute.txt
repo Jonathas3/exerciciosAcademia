@@ -1,5 +1,0 @@
-C:\Dev\exerciciosAcademia\Anotacoes Alexandre zamberlan\obj\Debug\net6.0\Anotacoes Alexandre zamberlan.csproj.AssemblyReference.cache
-C:\Dev\exerciciosAcademia\Anotacoes Alexandre zamberlan\obj\Debug\net6.0\Anotacoes Alexandre zamberlan.GeneratedMSBuildEditorConfig.editorconfig
-C:\Dev\exerciciosAcademia\Anotacoes Alexandre zamberlan\obj\Debug\net6.0\Anotacoes Alexandre zamberlan.AssemblyInfoInputs.cache
-C:\Dev\exerciciosAcademia\Anotacoes Alexandre zamberlan\obj\Debug\net6.0\Anotacoes Alexandre zamberlan.AssemblyInfo.cs
-C:\Dev\exerciciosAcademia\Anotacoes Alexandre zamberlan\obj\Debug\net6.0\Anotacoes Alexandre zamberlan.csproj.CoreCompileInputs.cache

@@ -1,7 +1,0 @@
-﻿Compilação iniciada...
-1>------ Compilação iniciada: Projeto: AnotacoesRicardo, Configuração: Debug Any CPU ------
-1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
-1>C:\Dev\exerciciosAcademia\AnotacoesRicardo\Lampada.cs(12,24,12,32): warning CS0169: O campo "Lampada.potencia" nunca é usado
-1>AnotacoesRicardo -> C:\Dev\exerciciosAcademia\AnotacoesRicardo\bin\Debug\net6.0\AnotacoesRicardo.dll
-1>Projeto de compilação pronto "AnotacoesRicardo.csproj".
-========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
