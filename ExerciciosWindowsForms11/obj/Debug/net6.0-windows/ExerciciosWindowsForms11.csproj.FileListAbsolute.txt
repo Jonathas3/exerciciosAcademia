@@ -1,0 +1,17 @@
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\bin\Debug\net6.0-windows\ExerciciosWindowsForms11.exe
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\bin\Debug\net6.0-windows\ExerciciosWindowsForms11.deps.json
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\bin\Debug\net6.0-windows\ExerciciosWindowsForms11.runtimeconfig.json
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\bin\Debug\net6.0-windows\ExerciciosWindowsForms11.dll
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\bin\Debug\net6.0-windows\ExerciciosWindowsForms11.pdb
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\ExerciciosWindowsForms11.csproj.AssemblyReference.cache
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\ExerciciosWindowsForms11.Form_principal.resources
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\ExerciciosWindowsForms11.csproj.GenerateResource.cache
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\ExerciciosWindowsForms11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\ExerciciosWindowsForms11.AssemblyInfoInputs.cache
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\ExerciciosWindowsForms11.AssemblyInfo.cs
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\ExerciciosWindowsForms11.csproj.CoreCompileInputs.cache
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\ExerciciosWindowsForms11.dll
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\refint\ExerciciosWindowsForms11.dll
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\ExerciciosWindowsForms11.pdb
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\ExerciciosWindowsForms11.genruntimeconfig.cache
+C:\Dev\exerciciosAcademia\ExerciciosWindowsForms11\obj\Debug\net6.0-windows\ref\ExerciciosWindowsForms11.dll

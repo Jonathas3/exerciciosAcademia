@@ -1,0 +1,15 @@
+C:\Dev\exerciciosAcademia\CathTry\bin\Debug\net6.0\CathTry.exe
+C:\Dev\exerciciosAcademia\CathTry\bin\Debug\net6.0\CathTry.deps.json
+C:\Dev\exerciciosAcademia\CathTry\bin\Debug\net6.0\CathTry.runtimeconfig.json
+C:\Dev\exerciciosAcademia\CathTry\bin\Debug\net6.0\CathTry.dll
+C:\Dev\exerciciosAcademia\CathTry\bin\Debug\net6.0\CathTry.pdb
+C:\Dev\exerciciosAcademia\CathTry\obj\Debug\net6.0\CathTry.csproj.AssemblyReference.cache
+C:\Dev\exerciciosAcademia\CathTry\obj\Debug\net6.0\CathTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\exerciciosAcademia\CathTry\obj\Debug\net6.0\CathTry.AssemblyInfoInputs.cache
+C:\Dev\exerciciosAcademia\CathTry\obj\Debug\net6.0\CathTry.AssemblyInfo.cs
+C:\Dev\exerciciosAcademia\CathTry\obj\Debug\net6.0\CathTry.csproj.CoreCompileInputs.cache
+C:\Dev\exerciciosAcademia\CathTry\obj\Debug\net6.0\CathTry.dll
+C:\Dev\exerciciosAcademia\CathTry\obj\Debug\net6.0\refint\CathTry.dll
+C:\Dev\exerciciosAcademia\CathTry\obj\Debug\net6.0\CathTry.pdb
+C:\Dev\exerciciosAcademia\CathTry\obj\Debug\net6.0\CathTry.genruntimeconfig.cache
+C:\Dev\exerciciosAcademia\CathTry\obj\Debug\net6.0\ref\CathTry.dll

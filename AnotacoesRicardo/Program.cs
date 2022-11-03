@@ -97,32 +97,46 @@
 
         //}
 
+        //static void Main(string[] args)
+        //{
+        //    int[] vetor = new int[10];
+        //    int i, maior, pos;
+        //    laco para leitura dos elementos
+        //    for (i = 0; i < 10; i++)
+        //    {
+        //        Console.WriteLine("digite o valor do elemento " + i);
+        //        vetor[i] = int.Parse(Console.ReadLine());
+        //    }
+        //    maior = vetor[0]; //defino que o primeiro elemento e o maior
+        //    pos = 0;
+        //    for (i = 0; i < 10; i++)
+        //    {
+        //        if (vetor[i] > maior)
+        //        {
+        //            maior = vetor[i];
+        //            pos = i;
+
+        //        }
+
+
+        //    }
+
+        //    Console.WriteLine("o maior elemento e: " + maior + " e esta na posicao " + pos);
+
+
         static void Main(string[] args)
         {
-            int[] vetor = new int[10];
-            int i, maior, pos;
-            //laco para leitura dos elementos
-            for (i = 0; i < 10; i++)
-            {
-                Console.WriteLine("digite o valor do elemento " + i);
-                vetor[i] = int.Parse(Console.ReadLine());
-            }
-            maior = vetor[0]; //defino que o primeiro elemento e o maior
-            pos = 0;
-            for (i = 0; i < 10; i++)
-            {
-                if (vetor[i] > maior)
-                {
-                    maior = vetor[i];
-                    pos = i;
-
-                }
-
-
-            }
-
-            Console.WriteLine("o maior elemento e: " + maior + " e esta na posicao " + pos);
+            Console.WriteLine("Apresentando Classes, objetos, basicas");
+            Lampada l1 = new Lampada();
+            bool retorno;
+            l1.ligar();
+            retorno =  l1.estaLigada();
+            Console.WriteLine("status da lampada: " +retorno);
+            l1.desligar();
+            retorno &= l1.estaLigada();
+            Console.WriteLine("status da lampada: " + retorno);
 
         }
+
     }
 }
