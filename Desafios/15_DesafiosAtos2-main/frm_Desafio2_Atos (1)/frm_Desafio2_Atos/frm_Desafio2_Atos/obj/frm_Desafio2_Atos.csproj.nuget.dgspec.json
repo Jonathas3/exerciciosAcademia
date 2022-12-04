@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\TEST1\\Desafios\\15_DesafiosAtos2-main\\frm_Desafio2_Atos (1)\\frm_Desafio2_Atos\\frm_Desafio2_Atos\\frm_Desafio2_Atos.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\TEST1\\Desafios\\15_DesafiosAtos2-main\\frm_Desafio2_Atos (1)\\frm_Desafio2_Atos\\frm_Desafio2_Atos\\frm_Desafio2_Atos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\TEST1\\Desafios\\15_DesafiosAtos2-main\\frm_Desafio2_Atos (1)\\frm_Desafio2_Atos\\frm_Desafio2_Atos\\frm_Desafio2_Atos.csproj",
+        "projectName": "frm_Desafio2_Atos",
+        "projectPath": "C:\\Dev\\TEST1\\Desafios\\15_DesafiosAtos2-main\\frm_Desafio2_Atos (1)\\frm_Desafio2_Atos\\frm_Desafio2_Atos\\frm_Desafio2_Atos.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\TEST1\\Desafios\\15_DesafiosAtos2-main\\frm_Desafio2_Atos (1)\\frm_Desafio2_Atos\\frm_Desafio2_Atos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
